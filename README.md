@@ -3,6 +3,10 @@ It is a very simple XSS simulator based on Flask, Python.
 
 This is a repository that explains XSS attack. We will run a local web program to learn XSS by experencing and attempting.
 
+# Introducing XSS
+XSS stands for cross-site scripting. The terminology cross-site scripting was originally abbreviated as CSS, but the word cascading style sheets is also called CSS, so people changed the abbreviation of cross-site scripting to XSS.
+
+
 # Requirements
 - markdown
 - flask
@@ -26,6 +30,3 @@ see [requirements.txt](requirements.txt)
 ![](screenshots/5.PNG)
 
 This is just an example, actually you can do something more interesting!
-
-# Introducing XSS
-XSS stands for cross-site scripting. The terminology cross-site scripting was originally abbreviated as CSS, but the word cascading style sheets is also called CSS, so people changed the abbreviation of cross-site scripting to XSS.
