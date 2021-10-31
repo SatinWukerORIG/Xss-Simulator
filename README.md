@@ -26,3 +26,6 @@ see [requirements.txt](requirements.txt)
 ![](screenshots/5.PNG)
 
 This is just an example, actually you can do something more interesting!
+
+# Introducing XSS
+XSS stands for cross-site scripting. The terminology cross-site scripting was originally abbreviated as CSS, but the word cascading style sheets is also called CSS, so people changed the abbreviation of cross-site scripting to XSS.
