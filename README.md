@@ -1,6 +1,8 @@
 # Xss-Simulator
 It is a very simple XSS simulator based on Flask, Python.
 
+This is a repository that explains XSS attack. We will run a local web program to learn XSS by experencing and attempting.
+
 # Requirements
 - markdown
 - flask
