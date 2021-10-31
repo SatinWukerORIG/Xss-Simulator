@@ -5,6 +5,8 @@ It is a very simple XSS simulator based on Flask, Python.
 - markdown
 - flask
 
+see [requirements.txt](requirements.txt)
+
 # How to Run
 ## 1. Download code
 
